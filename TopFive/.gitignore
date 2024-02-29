@@ -1,0 +1,9 @@
+# C#
+TopFive/bin
+TopFive/obj
+
+TopFive.Tests/bin
+TopFive.Tests/obj
+
+# RIDER
+.idea/
